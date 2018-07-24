@@ -9,7 +9,7 @@ def bust_a_move
   puts "Be cool Be snazzy"
 end
 
-def footwork
+def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
   puts "Finishing with a small skip-step backward"
