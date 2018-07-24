@@ -15,17 +15,17 @@ def base_footwork
   puts "Finishing with a small skip-step backward"
 end
 
-def skip_step(left)
-  puts "lower"
-  puts "bounce"
-  puts "briefly"
-  
-  
 def bob_the_reins
   puts "Hold"
   puts "Cross"
   puts "Lift"
   puts "Do"
+end
+
+def skip_step(left)
+  puts "lower"
+  puts "bounce"
+  puts "briefly"
 end
 
 def lasso
