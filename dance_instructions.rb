@@ -23,9 +23,9 @@ def bob_the_reins
 end
 
 def skip_step(left)
-  puts "lower"
-  puts "bounce"
-  puts "briefly"
+  puts "Lower"
+  puts "Bounce"
+  puts "Briefly"
 end
 
 def lasso
