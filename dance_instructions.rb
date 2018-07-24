@@ -31,3 +31,7 @@ def bob_the_reins
   puts "cross your right wrist over your left and hold them together"
   puts "lift your arms up and down in a loose bouncing movement, in time with the beat of the song."
 end
+
+def lasso
+  puts ""
+end
