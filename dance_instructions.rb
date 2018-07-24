@@ -1,6 +1,6 @@
 
 # Code your methods below
-def assume_stance
+def starting_stance
   puts "Plant legs far apart"
 end
 
