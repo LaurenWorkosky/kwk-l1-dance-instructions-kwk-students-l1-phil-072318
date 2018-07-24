@@ -15,6 +15,12 @@ def footwork
   puts "Finishing with a small skip-step backward"
 end
 
+def skip_step("right")
+  puts "lower left foot to the ground"
+  puts "bounce left foot back up slightly, kicking it a few inches back"
+  puts "left, right, left, and left"
+end
+  
 def bob_the_reins
   puts "Holding your arms out in front of you, straight and at chest level and lower left foot to the ground"
   puts ""
