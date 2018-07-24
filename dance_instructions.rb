@@ -1,7 +1,7 @@
 
 # Code your methods below
 def assume_stance
-  puts "Plant legs far apart, bend knees slightly and keep posture loose"
+  puts "Plant legs far apart"
 end
 
 def bust_a_move
