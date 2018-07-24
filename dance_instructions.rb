@@ -16,4 +16,5 @@ def footwork
 end
 
 def bob_the_reins
-  
+  puts "Holding "
+end
