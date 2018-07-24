@@ -21,15 +21,16 @@ def skip_step("right")
   puts "right, left, right and right"
   
 def skip_step("left")
-  puts "lower left foot to the ground"
-  puts "bounce left foot back up slightly, kicking it a few inches back"
+  puts "lower"
+  puts "bounce"
   puts "left, right, left, and left"
 end
   
 def bob_the_reins
-  puts "Holding your arms out in front of you, straight and at chest level and lower left foot to the ground"
-  puts "cross your right wrist over your left and hold them together"
-  puts "lift your arms up and down in a loose bouncing movement, in time with the beat of the song."
+  puts "Hold"
+  puts "cross"
+  puts "lift"
+  puts "do"
 end
 
 def lasso
