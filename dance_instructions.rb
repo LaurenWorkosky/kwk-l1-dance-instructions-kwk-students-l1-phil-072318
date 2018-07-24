@@ -16,5 +16,6 @@ def footwork
 end
 
 def bob_the_reins
-  puts "Holding "
+  puts "Holding your arms out in front of you, straight and at chest level and lower left foot to the ground"
+  puts ""
 end
