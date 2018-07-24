@@ -16,14 +16,14 @@ def footwork
 end
 
 def skip_step("right")
-  puts "lower right foot to the ground"
-  puts "bounce right foot back up slightly, kicking it a few inches back"
-  puts "right, left, right and right"
+  puts "lower"
+  puts "bounce"
+  puts "briefly"
   
 def skip_step("left")
   puts "lower"
   puts "bounce"
-  puts "left, right, left, and left"
+  puts "briefly"
 end
   
 def bob_the_reins
