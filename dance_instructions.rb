@@ -15,12 +15,12 @@ def footwork
   puts "Finishing with a small skip-step backward"
 end
 
-def skip_step("right")
+def skip_step(foot)
   puts "lower"
   puts "bounce"
   puts "briefly"
   
-def skip_step("left")
+def skip_step(foot)
   puts "lower"
   puts "bounce"
   puts "briefly"
