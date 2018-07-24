@@ -1,5 +1,6 @@
 
 # Code your methods below
+
 def starting_stance
   puts "Plant legs far apart"
 end
@@ -14,16 +15,11 @@ def footwork
   puts "Finishing with a small skip-step backward"
 end
 
-def skip_step("left")
+def skip_step
   puts "lower"
   puts "bounce"
   puts "briefly"
   
-def skip_step(foot)
-  puts "lower"
-  puts "bounce"
-  puts "briefly"
-end
   
 def bob_the_reins
   puts "Hold"
