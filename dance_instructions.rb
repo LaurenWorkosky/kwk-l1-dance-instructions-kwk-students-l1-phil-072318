@@ -23,14 +23,14 @@ def skip_step(left)
   
 def bob_the_reins
   puts "Hold"
-  puts "cross"
-  puts "lift"
-  puts "do"
+  puts "Cross"
+  puts "Lift"
+  puts "Do"
 end
 
 def lasso
   puts "Start"
   puts "Lift"
   puts "Raise"
-  puts "do"
+  puts "Do"
 end
