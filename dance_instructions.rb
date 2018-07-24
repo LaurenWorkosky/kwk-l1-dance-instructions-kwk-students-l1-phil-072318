@@ -5,8 +5,7 @@ def starting_stance
 end
 
 def bust_a_move
-  puts "Be cool"
-  puts "Be snazzy"
+  puts "Be cool Be snazzy"
 end
 
 def footwork
